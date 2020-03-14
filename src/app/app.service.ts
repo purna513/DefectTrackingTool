@@ -11,7 +11,7 @@ import { stringify } from 'querystring';
 @Injectable()
 export class AppService {
 
-  public url = 'http://ec2-13-127-211-126.ap-south-1.compute.amazonaws.com:3000';
+  public url = 'http://localhost:3000';
   
 
 
