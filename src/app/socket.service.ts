@@ -13,7 +13,7 @@ import { HttpErrorResponse, HttpParams } from "@angular/common/http";
 @Injectable()
 export class SocketService {
 
-  private url = 'http://localhost:3000';
+  private url = 'http://ec2-13-233-165-228.ap-south-1.compute.amazonaws.com:3000';
   
 
 
